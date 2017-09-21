@@ -1,0 +1,87 @@
+header {
+    border: 1px solid black;
+    padding-bottom: 250px;
+}
+
+#lefter {
+    float: left;
+    width: 750px;
+}
+
+#righter {
+    float: right;
+    width: 500px;
+    font-size: 20px;
+}
+
+body {
+    background-color: #ECCAC8;
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#wrapper {
+    background-color: #7889EF;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#wrapper a:hover {
+    color: #A9605B;
+}
+
+#wrapper a {
+    color: #D70A2F;
+}
+
+#constricter {
+    width: 125px;
+    padding: 10px;
+}
+
+#constricter a:hover {
+    color: #A9605B;
+}
+
+#constricter a {
+    color: #D70A2F;
+}
+
+#constricter2 {
+    width: 65px;
+    padding: 10px;
+}
+
+#constricter2 a:hover {
+    color: #A9605B;
+}
+
+#constricter2 a {
+    color: #D70A2F;
+}
+
+.syllabi {
+    text-align: center;
+}
+
+.syllabi a {
+    color: #D70A2F;
+}
+
+.syllabi a:hover {
+    color: #3144BA;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 100%;
+    }
+}
